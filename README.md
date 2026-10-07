@@ -14,6 +14,8 @@ Currently upskilling in:
 ## Professional Background
  
 - Banking Analytics
+- Retail Analytics
+- Manufacturing Analytics
 - SAS Programming
 - SQL Development
 - Data Analysis
@@ -22,6 +24,7 @@ Currently upskilling in:
  
 ## Current Focus
  
+- Python Upskilling
 - Azure AI Projects
 - Generative AI Applications
 - Retrieval-Augmented Generation (RAG)
