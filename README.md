@@ -1,16 +1,42 @@
-## Hi there 👋
-
-<!--
-**UzureAIEngineer/UzureAIEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Umesh 👋
+ 
+Senior Analytics Professional with 10+ years of experience in Banking Analytics, SAS, SQL, Data Analysis and Business Intelligence.
+ 
+Currently upskilling in:
+ 
+- Microsoft Azure
+- Azure AI Foundry
+- Generative AI
+- AI Agents
+- Cloud Technologies
+- Python for AI
+ 
+## Professional Background
+ 
+- Banking Analytics
+- SAS Programming
+- SQL Development
+- Data Analysis
+- Business Consulting
+- Stakeholder Management
+ 
+## Current Focus
+ 
+- Azure AI Projects
+- Generative AI Applications
+- Retrieval-Augmented Generation (RAG)
+- AI Agent Development
+- Cloud Architecture
+ 
+## Portfolio Projects
+ 
+Coming Soon 🚀
+ 
+- Banking Credit Risk Analytics
+- Azure AI Document Intelligence
+- Azure AI Chatbot
+- RAG Application using Azure AI Search
+ 
+## Goal
+ 
+To transition from traditional analytics into modern Azure AI and Generative AI solution development while leveraging extensive domain expertise in BFSI, Retail, Manufacturing and Pharma domain
