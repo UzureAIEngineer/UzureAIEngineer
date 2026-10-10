@@ -42,7 +42,9 @@ Featured Project
 🏦 Banking Stress Testing Framework
 
 
+
 ✅ Banking Stress Testing Framework (In Progress....)
+
 
 
 
@@ -50,35 +52,63 @@ Featured Project
 A credit risk stress testing solution that simulates macroeconomic
 stress scenarios and measures portfolio impact using:
 
+
 ✅ PD (Probability of Default)
+
 ✅ LGD (Loss Given Default)
+
 ✅ EAD (Exposure at Default)
+
 ✅ ECL (Expected Credit Loss)
+
+
 
 Implemented in SAS with planned migration to:
 
+
 • SQL
+
 • Python
+
 • Power BI
+
 • Azure AI
 
+
+
 Project Status:
+
 Phase I to Phase VII Completed ✅
 
 
+
 Phase I   Input Validation       ✅
+
 Phase II  Data Preparation       ✅
+
 Phase III Scenario Creation      ✅
+
 Phase IV  Scenario Application   ✅
+
 Phase V   PD Stress Impact       ✅
+
 Phase VI  LGD Stress Impact      ✅
+
 Phase VII ECL Calculation        ✅
 
+
 Phase VIII Portfolio Reporting   ⏳
+
 Phase IX  Power BI Dashboard     ⏳
+
 Phase X   SQL Migration          ⏳
+
 Phase XI  Python Migration       ⏳
+
 Phase XII Azure AI Extension     ⏳
+
+
+
 
 
 
@@ -87,6 +117,7 @@ Phase XII Azure AI Extension     ⏳
 
  
 Coming Soon 🚀
+
  
 - Banking Credit Risk Analytics
  
