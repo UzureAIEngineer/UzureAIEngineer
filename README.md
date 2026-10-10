@@ -1,10 +1,12 @@
+
+
 # Hi, I'm Umesh 👋
- 
+ 
 Senior Analytics Professional with 10+ years of experience in Banking Analytics, SAS, SQL, Data Analysis and Business Intelligence.
 
  
 Currently upskilling in:
- 
+ 
 - Microsoft Azure
 - Azure AI Foundry
 - Generative AI
@@ -12,9 +14,9 @@ Currently upskilling in:
 - Cloud Technologies
 - Python for AI
 
- 
+ 
 ## Professional Background
- - Banking Analytics
+ - Banking Analytics
 - Retail Analytics
 - Manufacturing Analytics
 - SAS Programming
@@ -23,7 +25,7 @@ Currently upskilling in:
 - Business Consulting
 - Stakeholder Management
 
- 
+ 
 ## Current Focus
 - Python Upskilling
 - Azure AI Projects
@@ -32,7 +34,7 @@ Currently upskilling in:
 - AI Agent Development
 - Cloud Architecture
 
- 
+ 
 ## Portfolio Projects
 
 
@@ -43,10 +45,11 @@ Featured Project
 
 
 
+
+
+
+
 ✅ Banking Stress Testing Framework (In Progress....)
-
-
-
 
 
 A credit risk stress testing solution that simulates macroeconomic
@@ -60,6 +63,12 @@ stress scenarios and measures portfolio impact using:
 ✅ EAD (Exposure at Default)
 
 ✅ ECL (Expected Credit Loss)
+
+
+
+
+
+
 
 
 
@@ -82,6 +91,7 @@ Implemented in SAS with planned migration to:
 
 Project Status:
 
+
 Phase I to Phase VII Completed ✅
 
 
@@ -99,6 +109,8 @@ Phase V   PD Stress Impact       ✅
 Phase VI  LGD Stress Impact      ✅
 
 Phase VII ECL Calculation        ✅
+
+
 
 
 Phase VIII Portfolio Reporting   ⏳
@@ -120,10 +132,11 @@ Phase XII Azure AI Extension     ⏳
 
 
 
+
  
 Coming Soon 🚀
 
- 
+ 
 - Banking Credit Risk Analytics
  
 - Azure AI Document Intelligence
@@ -135,9 +148,12 @@ Coming Soon 🚀
 
 
 
- 
+
+
+
+ 
 ## Goal
- 
+ 
 To transition from traditional analytics into modern Azure AI and Generative AI solution development while leveraging extensive domain expertise in BFSI, Retail and Manufacturing domain
 
 
