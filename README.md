@@ -77,7 +77,10 @@ SAS | Banking Analytics | Risk Management | Credit Risk | Stress Testing
 
 
 
+
+
 Planned Enhancements:
+
 
 
 
@@ -94,9 +97,11 @@ Planned Enhancements:
 
 
 
+
+
+
  
 Coming Soon 🚀
-
  
 - Banking Credit Risk Analytics
  
@@ -106,6 +111,8 @@ Coming Soon 🚀
   
 - RAG Application using Azure AI Search
   
+
+
 
  
 ## Goal
