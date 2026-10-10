@@ -42,4 +42,4 @@ Coming Soon 🚀
  
 ## Goal
  
-To transition from traditional analytics into modern Azure AI and Generative AI solution development while leveraging extensive domain expertise in BFSI, Retail, Manufacturing and Pharma domain
+To transition from traditional analytics into modern Azure AI and Generative AI solution development while leveraging extensive domain expertise in BFSI, Retail and Manufacturing domain
