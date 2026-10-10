@@ -1,142 +1,103 @@
-
-
 # Hi, I'm Umesh 👋
- 
-Senior Analytics Professional with 10+ years of experience in Banking Analytics, SAS, SQL, Data Analysis and Business Intelligence.
 
- 
-Currently upskilling in:
- 
-- Microsoft Azure
-- Azure AI Foundry
-- Generative AI
-- AI Agents
-- Cloud Technologies
-- Python for AI
+Senior Analytics Professional with 10+ years of experience in Banking Analytics, SAS, SQL, Data Analysis, Business Intelligence, and Stakeholder Management.
 
- 
 ## Professional Background
- - Banking Analytics
+
+- Banking Analytics
+- Credit Risk Analytics
 - Retail Analytics
 - Manufacturing Analytics
 - SAS Programming
 - SQL Development
-- Data Analysis
 - Business Consulting
-- Stakeholder Management
+- Business Intelligence & Reporting
 
- 
 ## Current Focus
+
 - Python Upskilling
-- Azure AI Projects
-- Generative AI Applications
-- Retrieval-Augmented Generation (RAG)
-- AI Agent Development
-- Cloud Architecture
+- Microsoft Azure
+- Azure AI Foundry
+- Generative AI
+- AI Agents
+- RAG Applications
+- Cloud Technologies
 
- 
-## Portfolio Projects
+## 🏦 Featured Project
 
+### Banking Stress Testing Framework
 
+An end-to-end credit risk stress testing solution built using SAS to assess portfolio risk under multiple macroeconomic stress scenarios.
 
-Featured Project
+### Components Completed
 
-🏦 Banking Stress Testing Framework
+✅ Input Validation
 
+✅ Data Preparation
 
+✅ Risk Segmentation
 
+✅ Scenario Creation
 
-✅ Banking Stress Testing Framework (Active Development)
+✅ Scenario Application
 
+✅ PD Stress Impact
 
-A credit risk stress testing solution that simulates macroeconomic
-stress scenarios and measures portfolio impact using:
+✅ LGD Stress Impact
 
+✅ ECL Calculation
 
-✅ PD (Probability of Default)
+### Risk Models Implemented
 
-✅ LGD (Loss Given Default)
+- Probability of Default (PD)
+- Loss Given Default (LGD)
+- Exposure at Default (EAD)
+- Expected Credit Loss (ECL)
 
-✅ EAD (Exposure at Default)
+### Technology Stack
 
-✅ ECL (Expected Credit Loss)
+- SAS
+- Credit Risk Analytics
+- Banking Stress Testing
+- Risk Segmentation
+- ECL Modelling
 
+### Current Roadmap
 
+✅ Phase I - Input Validation
 
+✅ Phase II - Data Preparation
 
-Implemented in SAS with planned migration to:
+✅ Phase III - Scenario Creation
 
-• SQL
-• Python
-• Power BI
-• Azure AI
+✅ Phase IV - Scenario Application
 
+✅ Phase V - PD Stress Impact
 
+✅ Phase VI - LGD Stress Impact
 
-Technology Stack
+✅ Phase VII - ECL Calculation
 
-• SAS
-• Banking Risk Analytics
-• Credit Risk
-• Stress Testing
-• PD/LGD/ECL Modelling
-• SQL (Migration Planned)
-• Python (Migration Planned)
-• Power BI (Planned)
-• Azure AI (Planned)
+⏳ Phase VIII - Portfolio Stress Reporting
 
+⏳ Phase IX - Power BI Dashboard
 
-Project Status:
+⏳ Phase X - SQL Migration
 
+⏳ Phase XI - Python Migration
 
-Phase I to Phase VII Completed ✅
+⏳ Phase XII - Azure AI Extension
 
+## Upcoming Projects
 
-Phase I   Input Validation       ✅
+🚀 Azure AI Document Intelligence
 
-Phase II  Data Preparation       ✅
+🚀 Azure AI Chatbot
 
-Phase III Scenario Creation      ✅
+🚀 RAG Application using Azure AI Search
 
-Phase IV  Scenario Application   ✅
-
-Phase V   PD Stress Impact       ✅
-
-Phase VI  LGD Stress Impact      ✅
-
-Phase VII ECL Calculation        ✅
-
-
-
-Phase VIII Portfolio Reporting   ⏳
-
-Phase IX  Power BI Dashboard     ⏳
-
-Phase X   SQL Migration          ⏳
-
-Phase XI  Python Migration       ⏳
-
-Phase XII Azure AI Extension     ⏳
-
-
-
-
- 
-Coming Soon 🚀
-
- 
-- Banking Credit Risk Analytics
- 
-- Azure AI Document Intelligence
-  
-- Azure AI Chatbot
-  
-- RAG Application using Azure AI Search
-  
-
+🚀 AI-Powered Banking Analytics Solutions
 
 ## Goal
- 
-To transition from traditional analytics into modern Azure AI and Generative AI solution development while leveraging extensive domain expertise in BFSI, Retail and Manufacturing domain
 
-
+To evolve from traditional analytics into Azure AI and Generative AI solution development while leveraging domain expertise in BFSI, Retail, and Manufacturing.
