@@ -1,7 +1,8 @@
 # Hi, I'm Umesh 👋
  
 Senior Analytics Professional with 10+ years of experience in Banking Analytics, SAS, SQL, Data Analysis and Business Intelligence.
- 
+
+ 
 Currently upskilling in:
  
 - Microsoft Azure
@@ -10,10 +11,10 @@ Currently upskilling in:
 - AI Agents
 - Cloud Technologies
 - Python for AI
+
  
 ## Professional Background
- 
-- Banking Analytics
+ - Banking Analytics
 - Retail Analytics
 - Manufacturing Analytics
 - SAS Programming
@@ -21,20 +22,22 @@ Currently upskilling in:
 - Data Analysis
 - Business Consulting
 - Stakeholder Management
+
  
 ## Current Focus
- 
 - Python Upskilling
 - Azure AI Projects
 - Generative AI Applications
 - Retrieval-Augmented Generation (RAG)
 - AI Agent Development
 - Cloud Architecture
+
  
 ## Portfolio Projects
 
 
 ✅ Banking Stress Testing Framework (In Progress....)
+
 
 
 
@@ -89,13 +92,13 @@ Coming Soon 🚀
 
  
 - Banking Credit Risk Analytics
-- 
+ 
 - Azure AI Document Intelligence
-- 
+  
 - Azure AI Chatbot
-- 
+  
 - RAG Application using Azure AI Search
-- 
+  
 
  
 ## Goal
