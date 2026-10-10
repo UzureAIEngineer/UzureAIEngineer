@@ -36,6 +36,7 @@ Currently upskilling in:
 ## Portfolio Projects
 
 
+
 ✅ Banking Stress Testing Framework (In Progress....)
 
 
@@ -67,9 +68,12 @@ Current Components:
 
 
 
+
 Technologies:
 
 SAS | Banking Analytics | Risk Management | Credit Risk | Stress Testing
+
+
 
 
 
@@ -86,6 +90,8 @@ Planned Enhancements:
 • Python Migration
 
 • Azure AI Integration
+
+
 
 
  
