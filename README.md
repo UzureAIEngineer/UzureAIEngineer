@@ -36,41 +36,70 @@ Currently upskilling in:
 
 ✅ Banking Stress Testing Framework (In Progress....)
 
+
+
 End-to-end banking risk analytics solution developed using SAS.
+
+
 
 Current Components:
 
+
 • Input Validation Engine
+
 • Data Preparation Engine
+
 • Risk Segmentation Framework
+
 • Scenario Creation Engine
+
 • Scenario Application Engine
+
 • PD Stress Impact Model
+
 • LGD Stress Impact Model
+
 • ECL Calculation Engine
 
 
+
+
 Technologies:
+
 SAS | Banking Analytics | Risk Management | Credit Risk | Stress Testing
+
 
 
 Planned Enhancements:
 
 
+
 • Management Stress Reporting
+
 • Power BI Dashboard
+
 • SQL Migration
+
 • Python Migration
+
 • Azure AI Integration
 
  
 Coming Soon 🚀
+
  
 - Banking Credit Risk Analytics
+- 
 - Azure AI Document Intelligence
+- 
 - Azure AI Chatbot
+- 
 - RAG Application using Azure AI Search
+- 
+
  
 ## Goal
  
 To transition from traditional analytics into modern Azure AI and Generative AI solution development while leveraging extensive domain expertise in BFSI, Retail and Manufacturing domain
+
+
