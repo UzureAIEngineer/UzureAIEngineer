@@ -46,10 +46,7 @@ Featured Project
 
 
 
-
-
-
-✅ Banking Stress Testing Framework (In Progress....)
+✅ Banking Stress Testing Framework (Active Development)
 
 
 A credit risk stress testing solution that simulates macroeconomic
@@ -67,33 +64,32 @@ stress scenarios and measures portfolio impact using:
 
 
 
-
-
-
-
-
-
-
 Implemented in SAS with planned migration to:
 
-
 • SQL
-
 • Python
-
 • Power BI
-
 • Azure AI
 
 
 
+Technology Stack
+
+• SAS
+• Banking Risk Analytics
+• Credit Risk
+• Stress Testing
+• PD/LGD/ECL Modelling
+• SQL (Migration Planned)
+• Python (Migration Planned)
+• Power BI (Planned)
+• Azure AI (Planned)
 
 
 Project Status:
 
 
 Phase I to Phase VII Completed ✅
-
 
 
 Phase I   Input Validation       ✅
@@ -112,7 +108,6 @@ Phase VII ECL Calculation        ✅
 
 
 
-
 Phase VIII Portfolio Reporting   ⏳
 
 Phase IX  Power BI Dashboard     ⏳
@@ -122,13 +117,6 @@ Phase X   SQL Migration          ⏳
 Phase XI  Python Migration       ⏳
 
 Phase XII Azure AI Extension     ⏳
-
-
-
-
-
-
-
 
 
 
@@ -147,11 +135,6 @@ Coming Soon 🚀
   
 
 
-
-
-
-
- 
 ## Goal
  
 To transition from traditional analytics into modern Azure AI and Generative AI solution development while leveraging extensive domain expertise in BFSI, Retail and Manufacturing domain
