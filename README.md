@@ -63,6 +63,8 @@ stress scenarios and measures portfolio impact using:
 
 
 
+
+
 Implemented in SAS with planned migration to:
 
 
@@ -73,6 +75,8 @@ Implemented in SAS with planned migration to:
 • Power BI
 
 • Azure AI
+
+
 
 
 
@@ -106,6 +110,7 @@ Phase X   SQL Migration          ⏳
 Phase XI  Python Migration       ⏳
 
 Phase XII Azure AI Extension     ⏳
+
 
 
 
