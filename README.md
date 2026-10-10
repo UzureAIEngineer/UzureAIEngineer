@@ -47,6 +47,8 @@ An end-to-end credit risk stress testing solution built using SAS to assess port
 
 ✅ ECL Calculation
 
+✅ Portfolio Stress Reporting
+
 ### Risk Models Implemented
 
 - Probability of Default (PD)
@@ -78,7 +80,7 @@ An end-to-end credit risk stress testing solution built using SAS to assess port
 
 ✅ Phase VII - ECL Calculation
 
-⏳ Phase VIII - Portfolio Stress Reporting
+✅ Phase VIII - Portfolio Stress Reporting
 
 ⏳ Phase IX - Power BI Dashboard
 
