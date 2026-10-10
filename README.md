@@ -37,63 +37,48 @@ Currently upskilling in:
 
 
 
+Featured Project
+
+🏦 Banking Stress Testing Framework
+
+
 ✅ Banking Stress Testing Framework (In Progress....)
 
 
 
 
-End-to-end banking risk analytics solution developed using SAS.
+A credit risk stress testing solution that simulates macroeconomic
+stress scenarios and measures portfolio impact using:
+
+✅ PD (Probability of Default)
+✅ LGD (Loss Given Default)
+✅ EAD (Exposure at Default)
+✅ ECL (Expected Credit Loss)
+
+Implemented in SAS with planned migration to:
+
+• SQL
+• Python
+• Power BI
+• Azure AI
+
+Project Status:
+Phase I to Phase VII Completed ✅
 
 
+Phase I   Input Validation       ✅
+Phase II  Data Preparation       ✅
+Phase III Scenario Creation      ✅
+Phase IV  Scenario Application   ✅
+Phase V   PD Stress Impact       ✅
+Phase VI  LGD Stress Impact      ✅
+Phase VII ECL Calculation        ✅
 
-Current Components:
-
-
-• Input Validation Engine
-
-• Data Preparation Engine
-
-• Risk Segmentation Framework
-
-• Scenario Creation Engine
-
-• Scenario Application Engine
-
-• PD Stress Impact Model
-
-• LGD Stress Impact Model
-
-• ECL Calculation Engine
-
-
-
-
-
-Technologies:
-
-SAS | Banking Analytics | Risk Management | Credit Risk | Stress Testing
-
-
-
-
-
-
-
-Planned Enhancements:
-
-
-
-
-• Management Stress Reporting
-
-• Power BI Dashboard
-
-• SQL Migration
-
-• Python Migration
-
-• Azure AI Integration
-
+Phase VIII Portfolio Reporting   ⏳
+Phase IX  Power BI Dashboard     ⏳
+Phase X   SQL Migration          ⏳
+Phase XI  Python Migration       ⏳
+Phase XII Azure AI Extension     ⏳
 
 
 
