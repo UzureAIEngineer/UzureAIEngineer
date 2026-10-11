@@ -82,7 +82,7 @@ An end-to-end credit risk stress testing solution built using SAS to assess port
 
 ✅ Phase VIII - Portfolio Stress Reporting
 
-⏳ Phase IX - Power BI Dashboard
+✅ Phase IX - Power BI Dashboard
 
 ⏳ Phase X - SQL Migration
 
