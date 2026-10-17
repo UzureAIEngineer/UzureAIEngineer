@@ -86,7 +86,7 @@ An end-to-end credit risk stress testing solution built using SAS to assess port
 
 ⏳ Phase X - SQL Migration
 
-⏳ Phase XI - Python Migration
+✅ Phase XI - Python Migration
 
 ⏳ Phase XII - Azure AI Extension
 
