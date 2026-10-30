@@ -1,6 +1,6 @@
 # Hi, I'm Umesh 👋
 
-Senior Analytics Professional with 10+ years of experience in Banking Analytics, SAS, SQL, Data Analysis, Business Intelligence, and Stakeholder Management.
+Senior Analytics Professional with 10+ years of experience in Banking Analytics, SAS, SQL, Data Analysis, Business Intelligence, Stakeholder Management and data modernization techniques.
 
 ## Professional Background
 
